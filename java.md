@@ -1,4 +1,4 @@
-category: java advanced
+category: java level2
 lectures: Jin
 related:
 - xcss
