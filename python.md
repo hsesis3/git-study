@@ -1,5 +1,5 @@
 category: python
-lectures: Ryu
+lectures: Lee
 related:
 - AI
 - Django
