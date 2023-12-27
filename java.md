@@ -1,5 +1,5 @@
 category: java
-lectures: Ko
+lectures: kang
 related:
 - xcss
 - eclipse
